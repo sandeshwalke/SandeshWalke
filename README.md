@@ -24,7 +24,7 @@
 
 | Project | Tech | Repo Link |
 |--------|------|-----------|
-| Core Java Programs | Java | 🔗 [View repo](https://github.com/sandeshwalke/CoreJava) |
+| Spring Boot| Java + SpringBoot + REST API | 🔗 [View repo](https://github.com/sandeshwalke/BookManageSpringBoot) |
 | Spring Core Apps | Java + Spring | 🔗 [View repo](https://github.com/sandeshwalke/SpringCore) |
 | Jdbc Truck Management | Java JDBC | 🔗 [View repo](https://github.com/sandeshwalke/JDBCProjTruckManagement) |
 
