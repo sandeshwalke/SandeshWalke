@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sandesh Walke</h1>
+<h3 align="center">Java Developer | Spring Boot | Web Development</h3>
 
-<!--
-**sandeshwalke/SandeshWalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning & building projects in **Java, Spring Boot, React**
+- 💼  Aspiring Software Engineer
+- 📌 All My Projects → [GitHub Repositories](https://github.com/sandeshwalke?tab=repositories)
+- 📫 How to reach me: **sandeshwalke19@gmail.com**
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,postman,spring,js,git,github,html,css,bootstrap,tailwind,vscode,python" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Tech | Repo Link |
+|--------|------|-----------|
+| Core Java Programs | Java | 🔗 [View repo](https://github.com/sandeshwalke/CoreJava) |
+| Spring Core Apps | Java + Spring | 🔗 [View repo](https://github.com/sandeshwalke/SpringCore) |
+| Jdbc Truck Management | Java JDBC | 🔗 [View repo](https://github.com/sandeshwalke/JDBCProjTruckManagement) |
+
+---
+
+### ❤️ Quote
+
+> *Every problem states the solution approch itself.* 🔥
