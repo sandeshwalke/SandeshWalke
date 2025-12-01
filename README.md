@@ -24,8 +24,8 @@
 
 | Project | Tech | Repo Link |
 |--------|------|-----------|
-| APIKeyGenerator and Manager| Java + SpringBoot + JPA + REST API | 🔗 [View repo]([https://github.com/sandeshwalke/BookManageSpringBoot](https://github.com/sandeshwalke/APIKeyGenerator-Manager)) |
-| CRUDStudentJPA | Java + Springboot +JPA + REST API | 🔗 [View repo]([https://github.com/sandeshwalke/SpringCore](https://github.com/sandeshwalke/CRUD-Student-JPA)) |
+| APIKeyGenerator and Manager| Java + SpringBoot + JPA + REST API | 🔗 [View repo](https://github.com/sandeshwalke/BookManageSpringBoot](https://github.com/sandeshwalke/APIKeyGenerator-Manager)) |
+| CRUDStudentJPA | Java + Springboot +JPA + REST API | 🔗 [View repo](https://github.com/sandeshwalke/SpringCore](https://github.com/sandeshwalke/CRUD-Student-JPA)) |
 | Jdbc Truc | Java JDBC | 🔗 [View repo](https://github.com/sandeshwalke/JDBCProjTruckManagement) |
 
 ---
